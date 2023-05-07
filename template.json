@@ -1,0 +1,41 @@
+{
+  "Actor": {
+    "types": ["character", "company", "town", "ship", "monster"],
+    "templates": {
+    },
+    "character": {
+      "templates": [],
+      "class": "",
+      "level": 1,
+      "abilities": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      }
+    },
+    "company": {
+      "templates": []
+    },
+    "town": {
+      "templates": []
+    },
+    "ship": {
+      "templates": []
+    },
+    "monster": {
+      "templates": []
+    }
+  },
+  "Item": {
+    "types": ["weapon"],
+    "templates": {
+    },
+    "weapon": {
+      "templates": []
+    }
+  }
+}
+

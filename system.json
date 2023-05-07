@@ -1,0 +1,19 @@
+{
+  "id": "lavender-hack",
+  "title": "The Lavender Hack",
+  "description": "An unofficial system for the Lavender Hack by Phil Lewis.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "Kit",
+      "url": "https://transneptune.games",
+	  "email": "kit@transneptune.net",
+	  "discord": "wlonk#6479"
+    }
+  ]
+}
